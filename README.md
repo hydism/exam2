@@ -31,3 +31,16 @@
 [강의실 테이블 생성 후 샘플 강의실 10개 등록, 과목 테이블에 강의실컬럼 추가 후 배정하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD5.sql)  
   
   
+[수강과목별 중간, 기말 성적 테이블 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_1.sql)  
+  
+  
+[수강 테이블 기준으로 중간, 기말 성적 테이블 구성](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_2.sql)
+  
+  
+[과목별 수강생 과목/ 성적순 출력](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_3.sql)  
+  
+  
+[과목별 통계 리포트 과목순으로 출력](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_4.sql)  
+  
+  
+[학생별 통계 리포트 성적순으로 출력](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_5.sql)  
