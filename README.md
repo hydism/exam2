@@ -1,4 +1,4 @@
-###데이터베이스 구현
+#데이터베이스 구현
 
 [Docker를 활용하여 오라클 Express Edition 설치하기](https://github.com/better331132/exam2/blob/master/%EB%AC%B8%ED%95%AD1.md)  
   
@@ -14,7 +14,7 @@
   
 [Linux Docker Container, Telnet Daemon구동 및 한글, git 사용설정하기](https://github.com/better331132/exam2/blob/master/%EB%AC%B8%ED%95%AD5.md)  
 
-###SQL활용
+#SQL활용
 
 [학생, 과목, 교수, 수강내역 관계를 고려하여 테이블 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD1.sql)  
   
