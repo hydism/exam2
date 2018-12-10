@@ -19,4 +19,15 @@
 [학생, 과목, 교수, 수강내역 관계를 고려하여 테이블 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD1.sql)  
   
   
-[학생테이블 및 과목테이블을 활용, 수강내역테이블에 테스트용 데이터 구성하기](
+[학생테이블 및 과목테이블을 활용, 수강내역테이블에 테스트용 데이터 구성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD2.sql)  
+  
+  
+[동아리별 회원 테이블 생성 후 50명 내외로 가입시키기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD3.sql)  
+  
+  
+[학과 테이블 생성 후 5개 이상의 샘플 데이터 등록, 학생 테이블에 학과 컬럼 추가 후 모든학생에게 랜덤한 과 배정하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD4.sql)  
+  
+  
+[강의실 테이블 생성 후 샘플 강의실 10개 등록, 과목 테이블에 강의실컬럼 추가 후 배정하기](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD5.sql)  
+  
+  
