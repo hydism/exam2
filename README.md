@@ -44,3 +44,21 @@
   
   
 6-5[학생별 통계 리포트 성적순으로 출력](https://github.com/better331132/exam2/blob/master/Mysql_exam2/%EB%AC%B8%ED%95%AD6_5.sql)  
+  
+# SQL 응용 평가 및 포트폴리오
+1[View 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD1.sql)  
+  
+  
+2[Stored Function 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD2.sql)
+  
+  
+3[Trigger 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD3.sql)  
+  
+  
+4[Stored Procedure 생성하기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD4.sql)  
+  
+  
+5[조건부 데이터 조회하기(oracle)](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD5.sql)  
+  
+  
+6[프로시져를 사용하여 과목별 성적 상위 3명 뽑기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD6.sql)  
