@@ -7,4 +7,3 @@ create table Grade(
     constraint foreign key fk_enroll(enroll) references Enroll(id)
     on delete set null
 );
-

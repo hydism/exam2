@@ -27,3 +27,5 @@ add constraint fk_Subject_Classroom
 update Subject j inner join Classroom c on j.id = c.id
   set j.classroom= c.id;
 
+select * from Subject;
+

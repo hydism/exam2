@@ -11,5 +11,5 @@ select s.name as '학생명',
  from Enroll e inner join Student s on e.student = s.id
                inner join Subject j on e.subject = j.id
                inner join Grade g on e.id = g.enroll
- group by s.name
+ group by s.id
  order by s.name;
