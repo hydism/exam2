@@ -1,4 +1,4 @@
-drop trigger tr_addclub_ranleader;
+drop trigger if exists tr_addclub_ranleader;
 Delimiter //
 create trigger tr_addclub_ranleader
 	after insert on Club For Each Row

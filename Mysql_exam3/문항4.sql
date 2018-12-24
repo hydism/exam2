@@ -1,6 +1,6 @@
 drop procedure if exists sp_prof_rec;
 delimiter $$
-create procedure sp_prof_rec()
+create procedure sp_prof_rec(_sq tinyint)
 begin
     declare _isdone boolean default False;
     declare _popu smallint;
@@ -42,10 +42,7 @@ begin
         set _aratio = (_acount/_popu)*100;
         set _totpoint = (_likeratio/_aratio)*100;
         
-        
         insert into t_prof_ranking(prof,like_ratio,a_ratio,total_point) values(_prof, _likeratio, _aratio, _totpoint);
-            
-        
         
         IF _isdone THEN
             LEAVE loop1;
@@ -56,9 +53,9 @@ begin
     close cur_prof;
     
     select prof '교수명(해당과목명)', like_ratio '호감표시비율(단위:%)', a_ratio '수강생A학점비율(단위:%)', total_point '선호도총계' 
-      from t_prof_ranking order by total_point desc limit 3;
+      from t_prof_ranking order by total_point desc limit _sq;
     
 end $$
 delimiter ;
 
-call sp_prof_rec();
+call sp_prof_rec(9);

@@ -1,6 +1,6 @@
-drop function f_student_avr;
+drop function if exists f_student_avr;
 delimiter //
-create function f_student_avr(sid tinyint) RETURNS smallint
+create function f_student_avr(sid tinyint) RETURNS decimal(5,2)
 BEGIN
 	RETURN (select avg((g.midterm+g.finalterm)/2) '전과목평균점수'
 			 from Student s inner join Enroll e on e.student = s.id
@@ -10,4 +10,3 @@ END //
 
 delimiter ;
 
-select f_student_avr(1);
