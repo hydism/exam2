@@ -68,4 +68,4 @@
 1[데이터 표준화](https://github.com/better331132/exam2/blob/master/Mysql_exam4/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%91%9C%EC%A4%80%ED%99%94.md)  
   
   
-2[데이터 이관용 테이블 생성 ](https://github.com/better331132/exam2/blob/master/Mysql_exam4/data_standization.sql)  
+2[데이터 이관용 테이블 생성 쿼리](https://github.com/better331132/exam2/blob/master/Mysql_exam4/data_standization.sql)  
