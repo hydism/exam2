@@ -64,4 +64,5 @@
 6[프로시져를 사용하여 과목별 성적 상위 3명 뽑기](https://github.com/better331132/exam2/blob/master/Mysql_exam3/%EB%AC%B8%ED%95%AD6.sql)  
   
   
-# 데이터 표준화 
+# 데이터 표준화  
+1[
