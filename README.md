@@ -72,4 +72,8 @@
   
   
 # 데이터 이관
-1[데이터 이관](
+1[데이터 이관](https://github.com/better331132/exam2/blob/master/Data_migration/20181228.py)  
+  
+  
+2[데이터 이관 검증](https://github.com/better331132/exam2/blob/master/Data_migration/20181228_vr.py)  
+
