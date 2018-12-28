@@ -7,8 +7,8 @@ create table Department(
 create table Job(
 	job_id varchar(10) not null primary key,
     job_name varchar(31) not null,
-    min_salary smallint not null,
-    max_salary smallint not null
+    min_salary decimal(10,2) not null,
+    max_salary decimal(10,2) not null
     );
 
 create table Employee(
