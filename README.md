@@ -69,3 +69,7 @@
   
   
 2[데이터 이관용 테이블 생성 쿼리](https://github.com/better331132/exam2/blob/master/Mysql_exam4/data_standization.sql)  
+  
+  
+# 데이터 이관
+1[데이터 이관](
