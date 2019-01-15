@@ -76,4 +76,11 @@
   
   
 2[데이터 이관 검증](https://github.com/better331132/exam2/blob/master/Data_migration/20181228_vr.py)  
+  
+  
+# 데이터 수집
+1[국립국어원QnA크롤링](https://github.com/better331132/exam2/blob/master/crawling_exam/crawling_team_pj.py)  
+  
+  
+2[melon_top100크롤링](https://github.com/better331132/exam2/blob/master/crawling_exam/melon_top100.py)
 
